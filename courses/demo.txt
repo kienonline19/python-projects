@@ -1,0 +1,9 @@
+Mình có triển khai khóa học Python web cho các bạn mới bắt đầu:
+Học Online qua discord/gg meet
+Thời gian học 8h tối thứ 2, 3, 4 trong 5 tuần
+Học phí: 2tr5
+Dàn bài: https://teclado.com/30-days-of-python/python-30-day-0-getting-set-up/?ref=blog.teclado.com (học theo từng ngày)
+Kênh youtube cho bạn tham khảo: https://youtube.com/playlist?list=PLSpCQre3PzmWlodvqNcr0lg_10Bil8oF7
+Khi gặp khó khăn hay lỗi logic thì bọn mình có trách nhiệm support bạn và hỗ trợ qua ultravire/teamview
+Best regards
+Admin
